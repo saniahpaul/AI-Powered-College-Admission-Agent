@@ -63,7 +63,7 @@
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/mahendrajoshwa-eng/AI-Powered-College-Admission-Agent.git
+git clone https://github.com/saniahpaul/AI-Powered-College-Admission-Agent.git
 cd college-admission-agent
 ```
 
